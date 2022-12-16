@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Hack';
+    src: url('fonts/Hack-Regular.ttf');
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+   
+}
+
+
+.additems{
+    font-size: 50px !important;
+}
+
